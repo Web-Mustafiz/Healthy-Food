@@ -56,6 +56,7 @@ p {
     background-size: cover;
     background-repeat: no-repeat;
     padding-top: 125px;
+    margin-bottom: 50px;
 }
 
 .about-img-box img{
@@ -66,6 +67,50 @@ p {
 .about {
     margin-top: 75px; 
     color: #777;
+}
+
+.main-title {
+    text-align: center;
+    color: #777;
+}
+
+.main-p{
+    width: 50%;
+    text-align: justify;
+    margin: auto;
+}
+
+.recipie-container {
+    display: flex;
+    margin: 50px 0;
+}
+
+.recipies {
+    width: 40%;
+    box-shadow: 15px 15px 25px #777;
+    border-radius: 5%;  
+}
+
+.margin-left {
+    margin-left: 75px !important;
+}
+/* .margin-right {
+    margin-right: 75px;
+} */
+
+.recipies img {
+    width: 92%;
+    padding: 4%;
+}
+
+.recipie-title {
+    padding: 1% 4%;
+}
+
+
+.recipie-desc {
+    padding: 4%;
+    margin: 0 !important;
 }
 
 
