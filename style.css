@@ -54,7 +54,7 @@ p {
 
 .about-me{
     display: flex;
-    background-image: url(img/Frame-57.jpg);
+    background-image: url(img/frame.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding-top: 125px;
